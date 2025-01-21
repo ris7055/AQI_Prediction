@@ -10,20 +10,20 @@ and individuals take proactive measures to mitigate health risks and improve env
 
 ```
 ### Instruction
-#### Download or clone the repository
-#### Setup virtual env(if required)
+#### 1. Download or clone the repository
+#### 2. Setup virtual env(if required)
 ```
 python -m venv venv
 venv\Scripts\activate
 ```
-#### Install the requirements.txt
+#### 3. Install the requirements.txt
 ```
 pip install -r requirements.txt
 ```
-#### Run the app.py
+#### 4. Run the app.py
 ```
 streamlit run app.py
 ```
 
-#### Upload "air_pollution data.csv" file from this repository for prediction
+#### 5. Upload "air_pollution data.csv" file from this repository for prediction
 #### Any other data.csv file is also applicable for prediction. Thanks!
