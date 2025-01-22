@@ -28,3 +28,15 @@ streamlit run app.py
 
 #### 5. Upload "air_pollution data.csv" file from this repository for prediction
 #### Any other data.csv file is also applicable for prediction. Thanks!
+
+#### 6. Screenshots:
+![image](https://github.com/user-attachments/assets/0863b0c8-6743-404e-bb4a-550b05b00323)
+
+![image](https://github.com/user-attachments/assets/1662c34b-1d2d-4033-80a9-5b7b36d4fb1f)
+
+![image](https://github.com/user-attachments/assets/4fb667e9-b06c-4a97-af97-98327a1ecd82)
+
+#### 7. System Flowchart:
+![image](https://github.com/user-attachments/assets/50602233-c4b3-48e2-82d5-f51fb33cc3a9)
+
+
