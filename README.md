@@ -10,7 +10,10 @@ However, unlike the initial project proposal, the dataset used in this study doe
 pollutant concentration levels, which necessitated a shift from region-based predictions to pollutant-driven AQI forecasting. The project aims to develop a machine learning-based model to analyze and predict AQI trends effectively.
 
 ```
-### Instruction
+### Click here:-
+[Link to Streamlit web app](https://aqiprediction-group5-practical-ai.streamlit.app/)
+
+### Instructions to download and run:-
 #### 1. Download or clone the repository
 #### 2. Setup virtual env(if required)
 ```
