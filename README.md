@@ -17,7 +17,7 @@ pollutant concentration levels, which necessitated a shift from region-based pre
 python -m venv venv
 venv\Scripts\activate
 ```
-#### 3. Install the requirements.txt
+#### 3. Install the requirements.txt in venv (if required)
 ```
 pip install -r requirements.txt
 ```
